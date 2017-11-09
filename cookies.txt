@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.gifyu.com	TRUE	/	FALSE	1999999999	__cfduid	dc17f249603a90169237dd05f3d07349d1510243047
+.embedly.com	TRUE	/	FALSE	1999999999	__cfduid	dc1bd3b00d28137b03cbff8cc40c1f0371510243051
+
